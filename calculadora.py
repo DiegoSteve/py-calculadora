@@ -1,4 +1,3 @@
 class Calculadora:
-
-      def resta(self, a, b):
+    def resta(self, a, b):
         return a - b
